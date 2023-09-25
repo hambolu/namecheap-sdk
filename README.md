@@ -125,8 +125,4 @@ composer.phar update
  ```
 
 
-## Version Guidance
 
-| Version | Status     | Packagist           | Namespace    | Repo                | Docs                | PSR-7 | PHP Version |
-|---------|------------|---------------------|--------------|---------------------|---------------------|-------|-------------|
-| 1.x     | ---        | `gotcreations/namecheap-sdk`     | `Namecheap`     | - | - | No    | >= 5.6    |
